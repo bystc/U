@@ -1,2 +1,2 @@
 # U
-Plug in the U disk and it would be copied to the computer
+插上U盘后，U盘里的信息会被复制到电脑里
