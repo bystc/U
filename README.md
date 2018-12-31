@@ -1,2 +1,2 @@
 # U
-插上U盘后，U盘里的信息会被复制到电脑里
+After plugging in the usb flash drive, the information in the usb flash drive will be copied to the computer.
